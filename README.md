@@ -5,5 +5,5 @@
 👀 - Pretenção de fazer parte da área de Dev </>
 
 <div>
- <a href-"https://www.youtube.com/@zeyzkk" target-"_blank"><img src-"https://media.tenor.com/GB5qHbjeZnMAAAAC/osaka-spin.gif">
+ <a href-“https://www.youtube.com/@zeyzkk” target-“_blank”><img src-“https://media.tenor.com/GB5qHbjeZnMAAAAC/osaka-spin.gif”>
 </div>
