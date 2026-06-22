@@ -4,7 +4,6 @@
 📘 - Aprendendo inglês a 2 anos e 6 meses
 👀 - Pretenção de fazer parte da área de Dev </>
 
- <div>
-   https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-   (https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
- </div>
+<div>
+ <a href-"https://www.youtube.com/@zeyzkk" target-"_blank"><img src-"https://media.tenor.com/GB5qHbjeZnMAAAAC/osaka-spin.gif">
+</div>
